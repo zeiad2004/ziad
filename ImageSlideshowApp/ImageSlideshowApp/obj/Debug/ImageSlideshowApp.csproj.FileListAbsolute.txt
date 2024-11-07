@@ -1,0 +1,40 @@
+E:\University\vs projects\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.AssemblyReference.cache
+E:\University\vs projects\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.Form1.resources
+E:\University\vs projects\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.Properties.Resources.resources
+E:\University\vs projects\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.GenerateResource.cache
+E:\University\vs projects\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.CoreCompileInputs.cache
+E:\University\vs projects\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.exe.config
+E:\University\vs projects\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.exe
+E:\University\vs projects\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.pdb
+E:\University\vs projects\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.exe
+E:\University\vs projects\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.pdb
+E:\University\Third year\Term 1\Visual Programming\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.exe.config
+E:\University\Third year\Term 1\Visual Programming\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.exe
+E:\University\Third year\Term 1\Visual Programming\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.pdb
+E:\University\Third year\Term 1\Visual Programming\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.AssemblyReference.cache
+E:\University\Third year\Term 1\Visual Programming\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.Form1.resources
+E:\University\Third year\Term 1\Visual Programming\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.Properties.Resources.resources
+E:\University\Third year\Term 1\Visual Programming\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.GenerateResource.cache
+E:\University\Third year\Term 1\Visual Programming\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.CoreCompileInputs.cache
+E:\University\Third year\Term 1\Visual Programming\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.exe
+E:\University\Third year\Term 1\Visual Programming\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.pdb
+E:\University\Third year\Term 1\Visual Programming\Tasks\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.exe.config
+E:\University\Third year\Term 1\Visual Programming\Tasks\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.exe
+E:\University\Third year\Term 1\Visual Programming\Tasks\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.pdb
+E:\University\Third year\Term 1\Visual Programming\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.AssemblyReference.cache
+E:\University\Third year\Term 1\Visual Programming\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.Form1.resources
+E:\University\Third year\Term 1\Visual Programming\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.Properties.Resources.resources
+E:\University\Third year\Term 1\Visual Programming\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.GenerateResource.cache
+E:\University\Third year\Term 1\Visual Programming\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.CoreCompileInputs.cache
+E:\University\Third year\Term 1\Visual Programming\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.exe
+E:\University\Third year\Term 1\Visual Programming\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.pdb
+E:\visual programing tasks\Tasks\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.exe.config
+E:\visual programing tasks\Tasks\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.exe
+E:\visual programing tasks\Tasks\ImageSlideshowApp\ImageSlideshowApp\bin\Debug\ImageSlideshowApp.pdb
+E:\visual programing tasks\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.AssemblyReference.cache
+E:\visual programing tasks\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.Form1.resources
+E:\visual programing tasks\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.Properties.Resources.resources
+E:\visual programing tasks\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.GenerateResource.cache
+E:\visual programing tasks\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.csproj.CoreCompileInputs.cache
+E:\visual programing tasks\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.exe
+E:\visual programing tasks\Tasks\ImageSlideshowApp\ImageSlideshowApp\obj\Debug\ImageSlideshowApp.pdb
