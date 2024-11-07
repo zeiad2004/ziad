@@ -1,0 +1,30 @@
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\sec3.2\sec3.2\obj\Debug\sec3.2.csproj.AssemblyReference.cache
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\sec3.2\sec3.2\obj\Debug\sec3._2.Form1.resources
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\sec3.2\sec3.2\obj\Debug\sec3._2.Properties.Resources.resources
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\sec3.2\sec3.2\obj\Debug\sec3.2.csproj.GenerateResource.cache
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\sec3.2\sec3.2\obj\Debug\sec3.2.csproj.CoreCompileInputs.cache
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\sec3.2\sec3.2\bin\Debug\sec3.2.exe.config
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\sec3.2\sec3.2\bin\Debug\sec3.2.exe
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\sec3.2\sec3.2\bin\Debug\sec3.2.pdb
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\sec3.2\sec3.2\obj\Debug\sec3.2.exe
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\sec3.2\sec3.2\obj\Debug\sec3.2.pdb
+E:\University\Third year\Term 1\Visual Programming\sec3.2\sec3.2\bin\Debug\sec3.2.exe.config
+E:\University\Third year\Term 1\Visual Programming\sec3.2\sec3.2\bin\Debug\sec3.2.exe
+E:\University\Third year\Term 1\Visual Programming\sec3.2\sec3.2\bin\Debug\sec3.2.pdb
+E:\University\Third year\Term 1\Visual Programming\sec3.2\sec3.2\obj\Debug\sec3.2.csproj.AssemblyReference.cache
+E:\University\Third year\Term 1\Visual Programming\sec3.2\sec3.2\obj\Debug\sec3._2.Form1.resources
+E:\University\Third year\Term 1\Visual Programming\sec3.2\sec3.2\obj\Debug\sec3._2.Properties.Resources.resources
+E:\University\Third year\Term 1\Visual Programming\sec3.2\sec3.2\obj\Debug\sec3.2.csproj.GenerateResource.cache
+E:\University\Third year\Term 1\Visual Programming\sec3.2\sec3.2\obj\Debug\sec3.2.csproj.CoreCompileInputs.cache
+E:\University\Third year\Term 1\Visual Programming\sec3.2\sec3.2\obj\Debug\sec3.2.exe
+E:\University\Third year\Term 1\Visual Programming\sec3.2\sec3.2\obj\Debug\sec3.2.pdb
+E:\visual programing tasks\Tasks\COMPOBOX\sec3.2\bin\Debug\sec3.2.exe.config
+E:\visual programing tasks\Tasks\COMPOBOX\sec3.2\bin\Debug\sec3.2.exe
+E:\visual programing tasks\Tasks\COMPOBOX\sec3.2\bin\Debug\sec3.2.pdb
+E:\visual programing tasks\Tasks\COMPOBOX\sec3.2\obj\Debug\sec3.2.csproj.AssemblyReference.cache
+E:\visual programing tasks\Tasks\COMPOBOX\sec3.2\obj\Debug\sec3._2.Form1.resources
+E:\visual programing tasks\Tasks\COMPOBOX\sec3.2\obj\Debug\sec3._2.Properties.Resources.resources
+E:\visual programing tasks\Tasks\COMPOBOX\sec3.2\obj\Debug\sec3.2.csproj.GenerateResource.cache
+E:\visual programing tasks\Tasks\COMPOBOX\sec3.2\obj\Debug\sec3.2.csproj.CoreCompileInputs.cache
+E:\visual programing tasks\Tasks\COMPOBOX\sec3.2\obj\Debug\sec3.2.exe
+E:\visual programing tasks\Tasks\COMPOBOX\sec3.2\obj\Debug\sec3.2.pdb
