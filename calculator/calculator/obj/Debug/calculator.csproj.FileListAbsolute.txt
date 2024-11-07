@@ -1,0 +1,30 @@
+C:\Users\kapitoo\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\kapitoo\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\kapitoo\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\kapitoo\source\repos\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\kapitoo\source\repos\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\kapitoo\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\kapitoo\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\kapitoo\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\kapitoo\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\kapitoo\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+E:\University\Third year\Term 1\Visual Programming\calculator\calculator\bin\Debug\calculator.exe.config
+E:\University\Third year\Term 1\Visual Programming\calculator\calculator\bin\Debug\calculator.exe
+E:\University\Third year\Term 1\Visual Programming\calculator\calculator\bin\Debug\calculator.pdb
+E:\University\Third year\Term 1\Visual Programming\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\University\Third year\Term 1\Visual Programming\calculator\calculator\obj\Debug\calculator.Form1.resources
+E:\University\Third year\Term 1\Visual Programming\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\University\Third year\Term 1\Visual Programming\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\University\Third year\Term 1\Visual Programming\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\University\Third year\Term 1\Visual Programming\calculator\calculator\obj\Debug\calculator.exe
+E:\University\Third year\Term 1\Visual Programming\calculator\calculator\obj\Debug\calculator.pdb
+E:\visual programing tasks\Tasks\calculator\calculator\bin\Debug\calculator.exe.config
+E:\visual programing tasks\Tasks\calculator\calculator\bin\Debug\calculator.exe
+E:\visual programing tasks\Tasks\calculator\calculator\bin\Debug\calculator.pdb
+E:\visual programing tasks\Tasks\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\visual programing tasks\Tasks\calculator\calculator\obj\Debug\calculator.Form1.resources
+E:\visual programing tasks\Tasks\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\visual programing tasks\Tasks\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\visual programing tasks\Tasks\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\visual programing tasks\Tasks\calculator\calculator\obj\Debug\calculator.exe
+E:\visual programing tasks\Tasks\calculator\calculator\obj\Debug\calculator.pdb
